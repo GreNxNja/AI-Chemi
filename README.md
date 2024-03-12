@@ -43,8 +43,8 @@ AI-Chemi is built using a variety of modern web development technologies:
 
 To set up AI-Chemi locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ai-chemi.git`
-2. Navigate to the project directory: `cd ai-chemi`
+1. Clone the repository: `git clone https://github.com/GreNxNja/AI-Chemi.git`
+2. Navigate to the project directory: `cd AI-Chemi`
 3. Install dependencies: `npm install`
 4. Configure environment variables as per `.env.example`.
 5. Run the development server: `npm run dev`
